@@ -1,2 +1,2 @@
 # FirstYearFun
-some of the fun thing Ive been able to push between my studies
+some of the fun things I've tried between my studies
