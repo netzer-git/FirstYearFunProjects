@@ -1,3 +1,6 @@
+import sqlite3
+
+
 class UserDB:
     """
     the class represent and handles the known words to the user
